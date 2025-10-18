@@ -1,0 +1,1 @@
+HaLLON installer - https://github.com/gerwant/hallon-configurator-releases/releases
